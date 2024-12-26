@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mosabberul Islam</h1>
-<h3 align="center">Sr, Full Stack Developer🌟.</h3>
+<h3 align="center">Sr. Full Stack Developer🌟.</h3>
 
 <br>
 
